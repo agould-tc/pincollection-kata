@@ -1,0 +1,13 @@
+{
+  "type": "Branded",
+  "category": "Handset",
+  "simType": "Physical",
+  "make": "Motorola",
+  "model": "Moto G 5G 2024",
+  "imageUrl": "phone.png",
+  "sim": "8914541000000000109",
+  "imei": "541000000000109",
+  "network": "Verizon",
+  "purchaseDate": "2024-08-27",
+  "carrier": "Total Wireless"
+}
