@@ -1,8 +1,10 @@
 # Getting Started
 
-This is an exercise
+## Introduction
 
-# Getting Started with Create React App
+Welcome to the front-end developer test! In this exercise, you’ll be tasked with recreating a website based on a design image. This test will help assess your skills as well as your ability to translate visual designs into functional web interfaces. Just like you'd lean over and ask your co-workers during your daily tasks, feel free to ask us any clarifying questions!
+
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -33,42 +35,22 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# Requirements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Mockup](pinCollectionRequirements.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Using this existing shell, add your implementation to `PinCollection.js`. Tailwind is configured for styling but like anything else, feel free to use any approach you are comfortable with. The data is available in `public/data.json`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Recreation
 
-## Learn More
+Build the web page to match the design image as closely as possible. Pay attention to detail, including font sizes, colors, spacing, and alignment.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Responsiveness
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Use media queries or responsive design techniques to ensure the page looks good on various devices.
 
-### Code Splitting
+### Testing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Test your implementation in different browsers and devices to ensure compatibility and responsiveness.
