@@ -1,3 +1,3 @@
 export default function PinCollection() {
-  return <>test</>;
+  return <>Help!</>;
 }
